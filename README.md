@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Bonjour!, 👋
+## Salut!, 👋
 
 Je suis **Alexis Cabrera**, 🧑‍💻  
 
@@ -40,6 +40,6 @@ const alexis = {
     funFact: "J'aime les techniques de relaxation et de méditation."
 };
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=acpMicrocom&show_icons=true&theme=radical)](https://github.com/acpMicrocom)
+[![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=acpMicrocom&show_icons=true&theme=radical)](https://github.com/acpMicrocom)
 
 
