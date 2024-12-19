@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bonjour!, 👋
+## Bonjour!, 👋
 
 Je suis **Alexis Cabrera**, 🧑‍💻  
 
-------
 Ingénieur en informatique, avec une expérience dans le développement d'applications Odoo, la gestion de bases de données et le design web.
 
-
-
-### 🌟 Technologies que j’utilise
+### Un peu plus d'informations sur moi...
 ```javascript
 const alexis = {
     pronoms: "Il" | "Lui",
