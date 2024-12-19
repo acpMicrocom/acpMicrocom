@@ -41,4 +41,4 @@ const alexis = {
     funFact: "J'aime les techniques de relaxation et de méditation."
 };
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=acpMicrocom&show_icons=true&theme=radical)
+[Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=acpMicrocom&show_icons=true&theme=radical)
