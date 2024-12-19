@@ -23,30 +23,21 @@ Ingénieur en informatique, avec une expérience dans le développement d'applic
 ```javascript
 const alexis = {
     pronoms: "Il" | "Lui",
-    bio: "Développeur Odoo avec expérience en matière de bases de données et de conception de sites web.",
+    bio: "Ingénieur en informatique, avec une expérience dans le développement
+          d'applications Odoo, la gestion de bases de données et le design web.",
     compétences: ["Odoo", "Python"],
+    demanderMoiAPropos: ["web dev", "tech", "full-stack"],
+    technologies: {
+        frontEnd: {
+            langages: ["HTML", "Bootstrap", "SCSS"],
+        },
+        backEnd: {
+            langages: ["Python", "Django", "Odoo"],
+        },
+        basesDeDonnées: ["PostgreSQL", "MySQL"],
+        outilsDivers: ["Git"]
+    },
     funFact: "J'aime les techniques de relaxation et de méditation."
 };
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=acpMicrocom&show_icons=true&theme=radical)
-
-
-const safet = {
-    pronouns: "He" | "Him",
-    bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years
-          and completely abandoned it because I wanted to study computer science",
-    code: ["Javascript", "Java", "NodeJS"],
-    askMeAbout: ["web dev", "tech", "video games", "full-stack"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js", "Next.js"],
-            css: ["Tailwind", "MaterialUI", "bootstrap", "SCSS"]
-        },
-        backEnd: {
-            js: ["node", "spring boot"],
-        },
-        databases: ["mongo", "PostgreSQL", "MySql", "MSSQL"],
-        misc: ["Firebase", "Strapi", "OAuth", "Git"]
-    },
-    funFact: "The first computer “bug” was an actual real-life bug"
-};
