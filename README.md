@@ -25,7 +25,7 @@ const alexis = {
     pronoms: "Il" | "Lui",
     bio: "Ingénieur en informatique, avec une expérience dans le développement
           d'applications Odoo, la gestion de bases de données et le design web.",
-    compétences: ["Odoo", "Python"],
+    competences: ["Odoo", "Python"],
     demanderMoiAPropos: ["web dev", "tech", "full-stack"],
     technologies: {
         frontEnd: {
