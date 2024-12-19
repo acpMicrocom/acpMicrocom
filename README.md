@@ -11,13 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-- Ingénieur en informatique, avec une expérience dans le développement d'applications Odoo, la gestion de bases de données et le design web.
 -->
 
 ## Salut!, 👋
 
 Je suis **Alexis Cabrera**, 🧑‍💻  
-
-Ingénieur en informatique, avec une expérience dans le développement d'applications Odoo, la gestion de bases de données et le design web.
 
 ### Un peu plus d'informations sur moi...
 ```javascript
